@@ -1,0 +1,15 @@
+C:\Users\fidelimax\Source\Repos\ChiquePiggy\ChiquePiggy\ChiquePiggy.Service\bin\Debug\ChiquePiggy.Service.dll.config
+C:\Users\fidelimax\Source\Repos\ChiquePiggy\ChiquePiggy\ChiquePiggy.Service\bin\Debug\ChiquePiggy.Service.dll
+C:\Users\fidelimax\Source\Repos\ChiquePiggy\ChiquePiggy\ChiquePiggy.Service\bin\Debug\ChiquePiggy.Service.pdb
+C:\Users\fidelimax\Source\Repos\ChiquePiggy\ChiquePiggy\ChiquePiggy.Service\bin\Debug\ChiquePiggy.Caching.dll
+C:\Users\fidelimax\Source\Repos\ChiquePiggy\ChiquePiggy\ChiquePiggy.Service\bin\Debug\ChiquePiggy.Domain.dll
+C:\Users\fidelimax\Source\Repos\ChiquePiggy\ChiquePiggy\ChiquePiggy.Service\bin\Debug\ChiquePiggy.Helpers.dll
+C:\Users\fidelimax\Source\Repos\ChiquePiggy\ChiquePiggy\ChiquePiggy.Service\bin\Debug\ChiquePiggy.Caching.pdb
+C:\Users\fidelimax\Source\Repos\ChiquePiggy\ChiquePiggy\ChiquePiggy.Service\bin\Debug\ChiquePiggy.Domain.pdb
+C:\Users\fidelimax\Source\Repos\ChiquePiggy\ChiquePiggy\ChiquePiggy.Service\bin\Debug\ChiquePiggy.Domain.dll.config
+C:\Users\fidelimax\Source\Repos\ChiquePiggy\ChiquePiggy\ChiquePiggy.Service\bin\Debug\ChiquePiggy.Helpers.pdb
+C:\Users\fidelimax\Source\Repos\ChiquePiggy\ChiquePiggy\ChiquePiggy.Service\obj\Debug\ChiquePiggy.Service.csproj.AssemblyReference.cache
+C:\Users\fidelimax\Source\Repos\ChiquePiggy\ChiquePiggy\ChiquePiggy.Service\obj\Debug\ChiquePiggy.Service.csproj.CoreCompileInputs.cache
+C:\Users\fidelimax\Source\Repos\ChiquePiggy\ChiquePiggy\ChiquePiggy.Service\obj\Debug\ChiquePiggy.Service.csproj.CopyComplete
+C:\Users\fidelimax\Source\Repos\ChiquePiggy\ChiquePiggy\ChiquePiggy.Service\obj\Debug\ChiquePiggy.Service.dll
+C:\Users\fidelimax\Source\Repos\ChiquePiggy\ChiquePiggy\ChiquePiggy.Service\obj\Debug\ChiquePiggy.Service.pdb

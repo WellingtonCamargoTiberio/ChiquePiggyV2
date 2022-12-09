@@ -1,0 +1,46 @@
+﻿@model IEnumerable<ChiquePiggyFidelimax.Models.Cliente>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2 style="text-align: center; font-size: 60px; color: rgb(255,215,0)">Cadastro Cliente</h2>
+
+<p style="font-size:20px">
+    @Html.ActionLink("Novo Cliente", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            CPF
+        </th>
+        <th>
+            Nome
+        </th>
+        <th>
+            Operações
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+               @item.Cpf
+            </td>
+            <td>
+               @item.Nome
+            </td>
+            
+            <td>
+               @Html.ActionLink("Editar", "Edit", new { id=item.Id }) |
+               @Html.ActionLink("Detalhes", "Details", new { id=item.Id }) |
+               @Html.ActionLink("Deletar", "Delete", new { id=item.Id })
+            </td>
+        </tr>
+    }
+
+
+
+
+</table>

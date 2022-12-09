@@ -1,0 +1,15 @@
+C:\Users\fidelimax\Source\Repos\ChiquePiggy\ChiquePiggy\ChiquePiggy.Caching\bin\Debug\ChiquePiggy.Caching.dll
+C:\Users\fidelimax\Source\Repos\ChiquePiggy\ChiquePiggy\ChiquePiggy.Caching\bin\Debug\ChiquePiggy.Caching.pdb
+C:\Users\fidelimax\Source\Repos\ChiquePiggy\ChiquePiggy\ChiquePiggy.Caching\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\fidelimax\Source\Repos\ChiquePiggy\ChiquePiggy\ChiquePiggy.Caching\bin\Debug\System.Security.AccessControl.dll
+C:\Users\fidelimax\Source\Repos\ChiquePiggy\ChiquePiggy\ChiquePiggy.Caching\bin\Debug\System.Security.Permissions.dll
+C:\Users\fidelimax\Source\Repos\ChiquePiggy\ChiquePiggy\ChiquePiggy.Caching\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\fidelimax\Source\Repos\ChiquePiggy\ChiquePiggy\ChiquePiggy.Caching\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\fidelimax\Source\Repos\ChiquePiggy\ChiquePiggy\ChiquePiggy.Caching\bin\Debug\System.Security.AccessControl.xml
+C:\Users\fidelimax\Source\Repos\ChiquePiggy\ChiquePiggy\ChiquePiggy.Caching\bin\Debug\System.Security.Permissions.xml
+C:\Users\fidelimax\Source\Repos\ChiquePiggy\ChiquePiggy\ChiquePiggy.Caching\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\fidelimax\Source\Repos\ChiquePiggy\ChiquePiggy\ChiquePiggy.Caching\obj\Debug\ChiquePiggy.Caching.csproj.AssemblyReference.cache
+C:\Users\fidelimax\Source\Repos\ChiquePiggy\ChiquePiggy\ChiquePiggy.Caching\obj\Debug\ChiquePiggy.Caching.csproj.CoreCompileInputs.cache
+C:\Users\fidelimax\Source\Repos\ChiquePiggy\ChiquePiggy\ChiquePiggy.Caching\obj\Debug\ChiquePiggy.Caching.csproj.CopyComplete
+C:\Users\fidelimax\Source\Repos\ChiquePiggy\ChiquePiggy\ChiquePiggy.Caching\obj\Debug\ChiquePiggy.Caching.dll
+C:\Users\fidelimax\Source\Repos\ChiquePiggy\ChiquePiggy\ChiquePiggy.Caching\obj\Debug\ChiquePiggy.Caching.pdb

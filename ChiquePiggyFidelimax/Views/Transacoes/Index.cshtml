@@ -1,0 +1,54 @@
+﻿@model IEnumerable<ChiquePiggyFidelimax.Models.Transacao>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h1 style="text-align: center; color: rgb(255,215,0);font-size:60px; margin-bottom: 30px">Transações</h1>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Caixa.Cpf)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Cliente.Nome)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Caixa.DataCompra)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Caixa.ValorTotalCompra)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Caixa.Pontos)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Cliente.Cpf)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Cliente.Nome)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Caixa.DataCompra)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Caixa.ValorTotalCompra)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Caixa.Pontos)
+        </td>
+        <td>
+            @*@Html.ActionLink("Edit", "Edit", new { id = item.Id }) |*@
+            @Html.ActionLink("Detalhes", "Details", new { id = item.Id }) 
+            @*@Html.ActionLink("Delete", "Delete", new { id = item.Id })*@
+        </td>
+    </tr>
+}
+
+</table>

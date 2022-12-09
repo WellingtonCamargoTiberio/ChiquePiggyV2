@@ -1,0 +1,6 @@
+C:\Users\fidelimax\Source\Repos\ChiquePiggy\ChiquePiggy\ChiquePiggy.Helpers\bin\Debug\ChiquePiggy.Helpers.dll
+C:\Users\fidelimax\Source\Repos\ChiquePiggy\ChiquePiggy\ChiquePiggy.Helpers\bin\Debug\ChiquePiggy.Helpers.pdb
+C:\Users\fidelimax\Source\Repos\ChiquePiggy\ChiquePiggy\ChiquePiggy.Helpers\obj\Debug\ChiquePiggy.Helpers.csproj.AssemblyReference.cache
+C:\Users\fidelimax\Source\Repos\ChiquePiggy\ChiquePiggy\ChiquePiggy.Helpers\obj\Debug\ChiquePiggy.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\fidelimax\Source\Repos\ChiquePiggy\ChiquePiggy\ChiquePiggy.Helpers\obj\Debug\ChiquePiggy.Helpers.dll
+C:\Users\fidelimax\Source\Repos\ChiquePiggy\ChiquePiggy\ChiquePiggy.Helpers\obj\Debug\ChiquePiggy.Helpers.pdb

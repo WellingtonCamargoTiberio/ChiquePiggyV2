@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChiquePiggyFidelimax", "ChiquePiggyFidelimax.csproj", "{7341CA3A-9B48-4DC6-B8F2-7BE8CEC22F5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChiquePiggy.Caching", "..\ChiquePiggy\ChiquePiggy\ChiquePiggy.Caching\ChiquePiggy.Caching.csproj", "{171F8F6D-CFC8-405F-AC94-DD9F887C1C45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChiquePiggy.Service", "..\ChiquePiggy\ChiquePiggy\ChiquePiggy.Service\ChiquePiggy.Service.csproj", "{6746322B-7631-4BA4-8CA4-82428C241669}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChiquePiggy.Helpers", "..\ChiquePiggy\ChiquePiggy\ChiquePiggy.Helpers\ChiquePiggy.Helpers.csproj", "{9832BBAD-34E8-43D1-86E0-0458805652F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChiquePiggy.Domain", "..\ChiquePiggy\ChiquePiggy\ChiquePiggy.Domain\ChiquePiggy.Domain.csproj", "{60CD8E6A-3E44-467F-BBDC-20FEEF03ED7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7341CA3A-9B48-4DC6-B8F2-7BE8CEC22F5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7341CA3A-9B48-4DC6-B8F2-7BE8CEC22F5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7341CA3A-9B48-4DC6-B8F2-7BE8CEC22F5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7341CA3A-9B48-4DC6-B8F2-7BE8CEC22F5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{171F8F6D-CFC8-405F-AC94-DD9F887C1C45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{171F8F6D-CFC8-405F-AC94-DD9F887C1C45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{171F8F6D-CFC8-405F-AC94-DD9F887C1C45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{171F8F6D-CFC8-405F-AC94-DD9F887C1C45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6746322B-7631-4BA4-8CA4-82428C241669}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6746322B-7631-4BA4-8CA4-82428C241669}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6746322B-7631-4BA4-8CA4-82428C241669}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6746322B-7631-4BA4-8CA4-82428C241669}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9832BBAD-34E8-43D1-86E0-0458805652F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9832BBAD-34E8-43D1-86E0-0458805652F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9832BBAD-34E8-43D1-86E0-0458805652F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9832BBAD-34E8-43D1-86E0-0458805652F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60CD8E6A-3E44-467F-BBDC-20FEEF03ED7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60CD8E6A-3E44-467F-BBDC-20FEEF03ED7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60CD8E6A-3E44-467F-BBDC-20FEEF03ED7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60CD8E6A-3E44-467F-BBDC-20FEEF03ED7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4507C083-9B37-4317-B8B4-E26F4A7AF52D}
+	EndGlobalSection
+EndGlobal

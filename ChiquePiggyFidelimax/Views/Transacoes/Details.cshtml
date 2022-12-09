@@ -1,0 +1,56 @@
+﻿@model ChiquePiggyFidelimax.Models.Transacao
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+@*<div>
+    <h4>Transacao</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Caixa.Cpf)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Caixa.Cpf)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Cliente.Nome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Cliente.Nome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Caixa.DataCompra)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Caixa.DataCompra)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Caixa.ValorTotalCompra)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Caixa.ValorTotalCompra)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Caixa.Pontos)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Caixa.Pontos)
+        </dd>
+
+    </dl>
+</div>*@
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
